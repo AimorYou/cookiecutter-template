@@ -1,5 +1,7 @@
 {
     "directory_name": "Test",
-    "file_name": "Python sheet",
-    "user_name": "Arseny"
+    "model_file_name": "model_1613",
+    "DAG_file_name": "DAG",
+    "user_name": "Arseny",
+    "given_model": ["catboost", "logistic regression"]
 }
